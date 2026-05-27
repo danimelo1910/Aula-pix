@@ -1,0 +1,3 @@
+1. Cooperação e Trabalho em EquipeUso do if: Cada um coloca seu código dentro de um if (flag) diferente.Código isolado: As funções ficam separadas e desligadas (False) por padrão.Sem bagunça: Dá para juntar tudo no Git sem que um apague o código do outro.
+2. Persistência e DisciplinaO que aconteceria: O PIX ia quebrar no site real, os clientes não conseguiriam comprar e a loja perderia dinheiro.Importância de checar: Garante que nenhuma função com defeito fique ativa para o cliente final.
+3. Visão de Negócio (Impacto Real)Vantagem: O dono só muda a flag do PIX para False e o botão some do site na hora.O que ele ganha: Não precisa tirar o site do ar. O cliente usa o cartão ou boleto e a loja continua vendendo.
